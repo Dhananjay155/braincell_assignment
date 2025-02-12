@@ -16,6 +16,12 @@ React: Frontend JavaScript library for building the user interface
 
 CSS: Custom styling for the application components
 
+## Deploy Link
+
+```
+https://braincell-assignment.vercel.app/
+```
+
 ## Project Structure
 ```
 src/
