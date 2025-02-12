@@ -14,7 +14,7 @@ Technologies Used
 -CSS: Custom styling for the application components
 
 ## Project Structure
-
+```
 src/
   ├── components/
   │   ├── fetch.jsx/
@@ -22,7 +22,7 @@ src/
   |__ App.css
   ├── main.jsx
   └── styles/
-
+```
 ## Installation
 
 To run the app locally:
