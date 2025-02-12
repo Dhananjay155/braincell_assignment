@@ -3,6 +3,7 @@
 #Features
 
 -Fetch and display user data from JSONPlaceholder API (https://jsonplaceholder.typicode.com/users)
+
 -Display key user information including:
 
 -Name
