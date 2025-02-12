@@ -18,20 +18,19 @@ This is a simple React app that fetches a list of users from the [JSONPlaceholde
 To run the app locally:
 
 1. Clone the repository:
-   bash
+  ``` bash
    git clone https://github.com/Dhananjay155/braincell_assignment.git
+```
 Navigate to the project directory:
 
-bash
-cd users-list-app
+
 
 Install dependencies:
 
-bash
+```bash
 npm install
-
-Start the development server:
-
-bash
-npm start
+```
+Run frontend :
+```
+npm run dev
 ```
