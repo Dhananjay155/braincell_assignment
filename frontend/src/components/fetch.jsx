@@ -45,10 +45,10 @@ function FetchData() {
             <div className="user-grid">
                 {filteredUsers.map((user) => (
                     <div key={user.id} className="user-card">
-                        <h4>Name:-</h4>
-                        <h2>{user.name}</h2>
-                        <h4>Email:-</h4>
-                        <p>{user.email}</p>
+                        <h4>Name: <span>{user.name}</span></h4>
+                        
+                        <h4>Email: <span>{user.email}</span></h4>
+                        
     
                     </div>
                 ))}
