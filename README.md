@@ -2,18 +2,19 @@
 
 ## Features
 
--Fetch and display user data from JSONPlaceholder API (https://jsonplaceholder.typicode.com/users)
+Fetch and display user data from JSONPlaceholder API (https://jsonplaceholder.typicode.com/users)
 
--Display key user information including:
+Display key user information including:
 
--Name
--Email
+Name
+
+Email
 
 ## Technologies Used
 
--React: Frontend JavaScript library for building the user interface
+React: Frontend JavaScript library for building the user interface
 
--CSS: Custom styling for the application components
+CSS: Custom styling for the application components
 
 ## Project Structure
 ```
