@@ -1,6 +1,6 @@
-﻿# braincell_assignment
+﻿## braincell_assignment
 
-#Features
+## Features
 
 -Fetch and display user data from JSONPlaceholder API (https://jsonplaceholder.typicode.com/users)
 
@@ -9,7 +9,7 @@
 -Name
 -Email
 
-Technologies Used
+## Technologies Used
 
 -React: Frontend JavaScript library for building the user interface
 -CSS: Custom styling for the application components
