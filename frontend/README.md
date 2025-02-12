@@ -1,8 +1,47 @@
-# React + Vite
+﻿## braincell_assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+-Fetch and display user data from JSONPlaceholder API (https://jsonplaceholder.typicode.com/users)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-Display key user information including:
+
+-Name
+-Email
+
+## Technologies Used
+
+-React: Frontend JavaScript library for building the user interface
+-CSS: Custom styling for the application components
+
+## Project Structure
+```
+src/
+  ├── components/
+  │   ├── fetch.jsx/
+  ├── App.jsx
+  |__ App.css
+  ├── main.jsx
+  └── styles/
+```
+## Installation
+
+To run the app locally:
+
+1. Clone the repository:
+  ``` bash
+   git clone https://github.com/Dhananjay155/braincell_assignment.git
+```
+Navigate to the project directory:
+
+
+
+Install dependencies:
+
+```bash
+npm install
+```
+Run frontend :
+```
+npm run dev
+```
