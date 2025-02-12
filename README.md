@@ -1,19 +1,27 @@
 ﻿# braincell_assignment
 
-# Users List App
+#Features
 
-This is a simple React app that fetches a list of users from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/users) and displays their information. It includes a search feature to filter users by their name.
+-Fetch and display user data from JSONPlaceholder API (https://jsonplaceholder.typicode.com/users)
+-Display key user information including:
 
-## Features
-- Fetches user data from the JSONPlaceholder API.
-- Displays user name, email, and website.
-- Search functionality to filter users by name.
-- Displays loading and error states.
-- If no users match the search query, a message will be shown indicating no results.
+-Name
+-Email
 
-## Technologies Used
-- *React*: JavaScript library for building user interfaces.
-- *CSS*: Styling the app with a separate stylesheet (App.css).
+Technologies Used
+
+-React: Frontend JavaScript library for building the user interface
+-CSS: Custom styling for the application components
+
+## Project Structure
+
+src/
+  ├── components/
+  │   ├── fetch.jsx/
+  ├── App.jsx
+  |__ App.css
+  ├── main.jsx
+  └── styles/
 
 ## Installation
 
